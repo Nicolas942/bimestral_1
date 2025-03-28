@@ -112,4 +112,6 @@
 
 - pygame.display.update(): se actulizara la pantalla 
 
+## Diagrama de flujo
+
 ![diagrama de flujo](diagrama.png "diagrama de flujo")
